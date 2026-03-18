@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "夜を待つよ",
   "base_artist": "Midnight Grand Orchestra",
-  "createdAt": "2026-02-06T08:26:07.982851Z",
+  "createdAt": "2026-03-18T16:25:10.902287Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "Midnight Grand Orchestra",
       "has_synced": false,
       "path": "select/pl_01_夜を待つよ_Midnight_Grand_Orchestra.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "夜を待つよ",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": true,
+      "path": "select/localdb_01_夜を待つよ_Midnight_Grand_Orchestra.lrc",
+      "repo_name": "kX7ldIKFD60"
     }
   ]
 }
